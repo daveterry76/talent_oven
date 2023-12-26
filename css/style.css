@@ -41,7 +41,7 @@ a:active {
     justify-content: center;
     align-items: center;
     font-family: 'Courier Prime', monospace;
-    font-size: 60px;
+    font-size: 47px;
     position: relative;
     text-align: left;
 }
@@ -160,6 +160,11 @@ a:active {
     }
   }
   
+.clients-container {
+  display: flex;
+  justify-content: center;
+}
+
   .talents__picture--container,
   .clients__picture--container {
     padding: 2.5rem;
